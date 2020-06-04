@@ -1,2 +1,2 @@
 # Matrices-01
-Aplicación que permite buscar y actualizar datos en una matriz
+Aplicación que recorra una matriz para la lectura y escritura de sus datos
